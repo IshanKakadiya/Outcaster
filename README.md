@@ -1,4 +1,4 @@
-# App Store & Play Store APP
+# Cupertino Store
 
 Simple ***App Store & Play Store APP*** Created with **Flutter Freamwork** And **Dart Language**
 
