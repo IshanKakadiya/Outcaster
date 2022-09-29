@@ -1,16 +1,23 @@
-# whatsapp_clone
+# WhatsApp Clone APP
 
-A new Flutter project.
+Simple ***WhatsApp Clone APP*** Created with **Flutter Freamwork** And **Dart Language**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Functionality
 
-A few resources to get you started if this is your first Flutter project:
+- Only For UI Available
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+--- 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots 
+
+<img src="images/2.jpg" width="100">
+<img src="images/3.jpg" width="100">
+<img src="images/4.jpg" width="100">
+<img src="images/5.jpg" width="100">
+<img src="images/6.jpg" width="100">
+<img src="images/7.jpg" width="100">
+
+## Feedback
+
+If you have any feedback, please reach out to us at ishankakadiya7@gmail.com
