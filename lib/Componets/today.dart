@@ -1,8 +1,9 @@
-// ignore_for_file: camel_case_types, unused_local_variable, no_leading_underscores_for_local_identifiers
+// ignore_for_file: camel_case_types, unused_local_variable, no_leading_underscores_for_local_identifiers, depend_on_referenced_packages
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:play__store_and_app_store/Globle.dart';
+import 'package:flutter_phoenix/flutter_phoenix.dart';
 
 class todayComponets extends StatefulWidget {
   const todayComponets({Key? key}) : super(key: key);
@@ -51,6 +52,7 @@ class _todayComponetsState extends State<todayComponets> {
                         onChanged: (val) {
                           setState(() {
                             Globle.isIos = val;
+                            Phoenix.rebirth(context);
                           });
                         }),
                     const Spacer(),

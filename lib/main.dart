@@ -1,3 +1,5 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:play__store_and_app_store/Componets/Apps.dart';
@@ -6,10 +8,13 @@ import 'package:play__store_and_app_store/Componets/Search.dart';
 import 'package:play__store_and_app_store/Componets/Updates.dart';
 import 'package:play__store_and_app_store/Componets/today.dart';
 import 'package:play__store_and_app_store/Globle.dart';
+import 'package:flutter_phoenix/flutter_phoenix.dart';
 
 void main() {
   runApp(
-    const MyApp(),
+    Phoenix(
+      child: const MyApp(),
+    ),
   );
 }
 
@@ -29,6 +34,7 @@ class _MyAppState extends State<MyApp> with TickerProviderStateMixin {
   @override
   void initState() {
     super.initState();
+    Globle.isIos = false;
     _controller = TabController(length: 4, vsync: this);
   }
 
