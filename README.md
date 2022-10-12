@@ -11,10 +11,10 @@ Simple ***App Store & Play Store APP*** Created with **Flutter Freamwork** And *
 
 ## Screenshots 
 
-<img src="images/111.jpg" width="100"> &nbsp;  <img src="images/112.jpg" width="100"> &nbsp;
-<img src="images/113.jpg" width="100"> &nbsp;
-<img src="images/114.jpg" width="100"> &nbsp;
-<img src="images/115.jpg" width="100"> &nbsp;
+<img src="images/111.jpg" width="400"> &nbsp;  <img src="images/112.jpg" width="400"> &nbsp;
+<img src="images/113.jpg" width="400"> &nbsp;
+<img src="images/114.jpg" width="400"> &nbsp;
+<img src="images/115.jpg" width="400"> &nbsp;
 
 ## Feedback
 
