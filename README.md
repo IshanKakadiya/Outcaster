@@ -11,11 +11,11 @@ Simple ***WhatsApp Clone APP*** Created with **Flutter Freamwork** And **Dart La
 
 ## Screenshots 
 
-<img src="images/2.jpg"> &nbsp; <img src="images/3.jpg" width="100"> &nbsp;
-<img src="images/4.jpg""> &nbsp;
-<img src="images/5.jpg"> &nbsp;
-<img src="images/6.jpg""> &nbsp;
-<img src="images/7.jpg"> &nbsp;
+<img src="images/2.jpg" width="500"> &nbsp; <img src="images/3.jpg" width="500"> &nbsp;
+<img src="images/4.jpg" width="500"> &nbsp;
+<img src="images/5.jpg" width="500"> &nbsp;
+<img src="images/6.jpg" width="500"> &nbsp;
+<img src="images/7.jpg" width="500"> &nbsp;
 
 ## Feedback
 
