@@ -11,8 +11,8 @@ Simple ***App Store & Play Store APP*** Created with **Flutter Freamwork** And *
 
 ## Screenshots 
 
-<img src="images/1.jpg" width="140"> &nbsp;  <img src="images/2.jpg" width="140"> &nbsp;
-<img src="images/3.jpg" width="140"> &nbsp;
+<img src="images/1.jpg" width="400"> &nbsp;  <img src="images/2.jpg" width="400"> &nbsp;
+<img src="images/3.jpg" width="400"> &nbsp;
 
 ## Feedback
 
