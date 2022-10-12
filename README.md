@@ -11,7 +11,7 @@ Simple ***Android & IOS Settings*** Created with **Flutter Freamwork** And **Dar
 
 ## Screenshots 
 
-<img src="images/1.jpg" width="180"> &nbsp;  <img src="images/2.jpg" width="180"> &nbsp;
+<img src="images/1.jpg" width="400"> &nbsp;  <img src="images/2.jpg" width="400"> &nbsp;
 
 ## Feedback
 
